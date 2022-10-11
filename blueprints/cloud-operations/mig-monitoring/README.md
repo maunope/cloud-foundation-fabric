@@ -30,7 +30,7 @@ The Cloud Function runs every 5 minutes by default so you should start getting s
 You can change this frequency by modifying the "schedule_cron" variable in variables.tf.
 
 Once done testing, you can clean up resources by running `terraform destroy`.
-
+ 
 ## Supported limits and quotas
 The Cloud Function currently tracks usage, limit and utilization of:
 - active VPC peerings per VPC
