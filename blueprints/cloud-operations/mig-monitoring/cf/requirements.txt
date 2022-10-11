@@ -1,0 +1,9 @@
+# Function dependencies, for example:
+# package>=version
+oauth2client
+google-api-python-client
+google-cloud-monitoring
+google-cloud-logging
+oauth2client
+# pip3 install --upgrade pip
+# pip3 install --upgrade setuptools
